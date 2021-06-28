@@ -1,0 +1,77 @@
+{
+	"userLogins": [
+		{	"Role" : "PREPAID_INDIVIDUAL_DEFAULT_USER",
+			"serviceNumber": "01555901077",
+			"password": "12345678Q"
+
+		},
+		{	"Role" : "PREPAID_INDIVIDUAL_FD_DEFAULT_USER",
+			"serviceNumber": "0235371721",
+			"password": "12345678Q"
+		},
+		{	"Role" : "PREPAID_CORPORATE_FU_DEFAULT_USER",
+			"serviceNumber": "01111111123",
+			"password": "12345678Q"
+		},
+		{	"Role" : "PREPAID_CORPORATE_OS_DEFAULT_USER",
+			"serviceNumber": "01111111123",
+			"password": "12345678Q"
+		},
+		{	"Role" : "PREPAID_CORPORATE_FL_DEFAULT_USER",
+			"serviceNumber": "01111111100",
+			"password": "12345678Q"
+		},
+		{	"Role" : "PREPAID_CORPORATE_FU_FD_DEFAULT_USER",
+			"serviceNumber": "0235371727",
+			"password": "12345678Q"
+		},
+		{	"Role" : "PREPAID_CORPORATE_OS_FD_DEFAULT_USER",
+			"serviceNumber": "0235371726",
+			"password": "12345678Q"
+		},
+		{	"Role" : "PREPAID_CORPORATE_FL_FD_DEFAULT_USER",
+			"serviceNumber": "0235371723",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_INDIVIDUAL_DEFAULT_USER",
+			"serviceNumber": "01111111112",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_INDIVIDUAL_FD_DEFAULT_USER",
+			"serviceNumber": "0235371722",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_FMC_DEFAULT_USER",
+			"serviceNumber": "01135372348",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_FMC_FD_DEFAULT_USER",
+			"serviceNumber": "0235372347",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_CORPORATE_FU_DEFAULT_USER",
+			"serviceNumber": "01111111114",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_CORPORATE_OS_DEFAULT_USER",
+			"serviceNumber": "01111111124",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_CORPORATE_FL_DEFAULT_USER",
+			"serviceNumber": "01111111134",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_CORPORATE_FU_FD_DEFAULT_USER",
+			"serviceNumber": "0235371725",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_CORPORATE_OS_FD_DEFAULT_USER",
+			"serviceNumber": "0235371728",
+			"password": "12345678Q"
+		},
+		{	"Role" : "POSTPAID_CORPORATE_FL_FD_DEFAULT_USER",
+			"serviceNumber": "0235371724",
+			"password": "12345678Q"
+		}
+	]
+}
