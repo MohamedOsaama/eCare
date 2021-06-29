@@ -25,6 +25,7 @@ public class ChangePlan extends PageBase {
     public void clickOnConfirmButton(){
         clickButton(confirmRenewButton);
     }
+
     public String cpPageSnValidator(){
         String sn = (String) snTextField.getText();
         return sn;

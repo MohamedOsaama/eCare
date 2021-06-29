@@ -1,1 +1,0 @@
-{"uuid":"8446a393-d97a-42b4-b778-4b320758e6a2","name":"Segmatek.ecare.end2end","children":["55d1925a-f250-4351-887c-44163f663703"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1623921713735,"stop":1623921713920}],"links":[],"start":1623921712060,"stop":1623921713921}
