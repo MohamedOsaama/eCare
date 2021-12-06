@@ -9,7 +9,3 @@
 @POM 
 @PF
 @utilities ,helpers 
-
-
-***  The Script contains a Blocking issue ***
-  
